@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Base Saver</string>
+
+    <string-array name="clothes_type">
+        <item>socks</item>
+        <item>shirt</item>
+        <item>jersey</item>
+        <item>jacket</item>
+        <item>trousers</item>
+        <item>shorts</item>
+    </string-array>
+
+    <string-array name="clothes_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+
+    <string name="item_title">Item name</string>
+    <string name="item_type">Item Type</string>
+    <string name="item_size">Item size</string>
+    <string name="item_color">Item color</string>
+    <string name="delete">Delete</string>
+
+    <string name="menu">Menu</string>
+    <string name="registry">Registry</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="data">Data</string>
+    <string name="send_data">Send data</string>
+    <string name="receive_data">Receive data</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sing_in_failed">Sign in failed</string>
+    <string name="sing_in_successful">Sign in successful</string>
+    <string name="data_is_sent">Data is sent</string>
+    <string name="data_is_not_sent">Data is not sent</string>
+    <string name="need_register">You need to register</string>
+    <string name="data_is_not_retrieved">Attempt to retrieve data failed</string>
+
+    <!-- auth -->
+    <!--your server's web client ID-->
+    <string name="my_client_ID">
+        your server's web client ID !!!!
+    </string>
+
+</resources>
